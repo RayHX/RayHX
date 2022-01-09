@@ -1,5 +1,13 @@
-### Hi there 👋
+### Hi everyone 👋
+:cn:I'm originally from Shanghai, China
 
+:bulb:I'm second year Ph.D. Student in Higher Education Administration
+
+:high_brightness:I work in the Office of Admissions at UF
+
+:dog:I have a golden retriever
+
+📫 How to reach me: xuheng@ufl.edu
 <!--
 **RayHX/RayHX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
