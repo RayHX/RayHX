@@ -1,7 +1,7 @@
 ### Hi everyone 👋
 :cn:I'm originally from Shanghai, China
 
-:bulb:I'm second year Ph.D. Student in Higher Education Administration
+:bulb:I'm a second year Ph.D. student in Higher Education Administration
 
 :high_brightness:I work in the Office of Admissions at UF
 
